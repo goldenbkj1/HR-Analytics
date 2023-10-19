@@ -28,3 +28,20 @@ The project contains dashboard which hold the information about the Attrition of
 These dashboards show the KPI that shows all the Numbers of employee and the use of slicers have also helped in viewing the details much more effectively.
 
 The dashboard is made of different types of graphs, tables to get every bit of data to the person viewing these.
+
+##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
+
+    o	KPI’s :-
+                o  Total Employees
+                o  Attrition
+                
+    o	Attrition by categories and sub-categories.
+    
+    o	KPI's based on the differents field.
+    
+    o	KPI's based on different segments.
+
+## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshot
+
+**--A Attrition Overview Dashboard in Power BI is a comprehensive visual representation of key performance indicators and metrics for a Company. It provides a consolidated view of Attrition Rate, Average Salary to monitor and analyze Attrition performance in real-time or near-real-time** 
+    
