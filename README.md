@@ -44,4 +44,4 @@ The dashboard is made of different types of graphs, tables to get every bit of d
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshot
 
 **--A Attrition Overview Dashboard in Power BI is a comprehensive visual representation of key performance indicators and metrics for a Company. It provides a consolidated view of Attrition Rate, Average Salary to monitor and analyze Attrition performance in real-time or near-real-time** 
-    
+    ![image](https://github.com/goldenbkj1/HR-Analytics/blob/4c327b661c0deb3289a2bc0d84f506c07a37bf48/Screenshot%20(2).png)
