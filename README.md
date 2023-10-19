@@ -41,7 +41,30 @@ The dashboard is made of different types of graphs, tables to get every bit of d
     
     o	KPI's based on different segments.
 
+## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
+
+    1. Imported the dataset in Power BI and did a bit of cleaning.
+ 
+    2. Created some sheets for KPI's and their charts.
+    
+    3. Used Parameters and actions for better representation of data.
+    
+    4. Used calculated fields for some complex calculations.
+    
+    5. Used some of the formatting options for better visualization. 
+    
+    6. Created a interactive and dynamic dashboard at the end.
+
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshot
 
 **--A Attrition Overview Dashboard in Power BI is a comprehensive visual representation of key performance indicators and metrics for a Company. It provides a consolidated view of Attrition Rate, Average Salary to monitor and analyze Attrition performance in real-time or near-real-time** 
     ![image]![Screenshot (2)](https://github.com/goldenbkj1/HR-Analytics/assets/114793267/aea16a6b-d9a6-4c53-b3ee-df502751c1e9)
+
+## Conclusion
+The HR Analytics dashboard project using Power BI showcase the data of the Attrition of Employee done using different graphs and various other visualization tools.
+
+Different types of graphs included with slicers which helps the user to go through the details and understand the insights much better.With its interactive and customizable features, the dashboard enables users to gain valuable insights into AttritionRate, AverageAge, Average Salary, and other critical aspects of the company.
+
+By leveraging the power of Power BI, the HR Analytics Dashboard empowers decision-makers to make data-driven decisions, improve operational efficiency, and drive company growth.
+
+The dashboard provides a comprehensive and visually appealing overview of key performance indicators (KPIs) and metrics related to the company's operations, employee behavior.
